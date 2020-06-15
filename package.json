@@ -1,0 +1,28 @@
+{
+  "name": "genuisbot",
+  "version": "1.0.0",
+  "description": "A AnonymousBOT for Our Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hastebin-gen": "^2.0.5",
+    "http": "0.0.1-security",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-modules": "^1.0.1",
+    "random-puppy": "^1.1.0",
+    "roastme": "0.0.1"
+  },
+  "devDependencies": {}
+}
